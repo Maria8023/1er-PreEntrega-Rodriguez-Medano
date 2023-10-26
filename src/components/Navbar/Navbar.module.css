@@ -1,0 +1,25 @@
+.nav{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.navbar {
+    color: #A5E990;
+    font-family: 'Pacifico', cursive;
+    font-size: 150px;
+    margin-bottom: 10px;
+}
+
+.button {
+    color: #83DEA0;
+    background-color: #F9F871;
+    font-family: 'Prompt', sans-serif;
+    border-color: #CCF27F;
+    margin-left: 15px;
+    
+}
+.fondo{
+    height: 280px;
+    width: 50%;
+    border-radius: 25px;
+}
